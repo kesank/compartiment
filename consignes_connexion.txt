@@ -1,0 +1,20 @@
+Connexion au site compartiment site : 
+
+1/ connexion.php dans compartiment_site
+	-> formulaire de connexion (pseudo / MDP)
+	-> on vérifie que le pseudo soit wf3 et que le mDP soit freebox
+	-> si tout es ok ==> connecter l'utilisateur :
+
+2/ Enregistrer ses infos dans un fichier de session :	
+		pseudo : Wf3
+		mdp : freebox
+		Nom : Force
+		prenom : web
+		adresse : xxxxxxxxxxx
+		telephone : 0102030405
+		email : web.force3@gmail.com
+		
+3/ Ajouter "Bonjour web force" dans toutes les pages du site, grâce au fichier de session. Mais s'il est pas connecter on y met un lien vers le fichier connexion.php.
+
+4/ Fichier profil.php où l'utilisateur peut afficher ses infos de profil.
+

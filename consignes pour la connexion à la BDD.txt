@@ -1,0 +1,5 @@
+1 / Supprimer toto et titi de votre base entreprise (php, console, PHPmyadmin)
+2 / Ajouter à chaque employes un MDP (modifier la table dans PHPMyadmin), 'password'
+3 / Dans compartiment on peut se connecter avec wf3 / freebox. Maintenant on souhaite que compartimentçsite soit dinamyque et que ce sont les employes de entreprise qui puissent se connecter et accéder à leur profil, et se déconnecter). 
+
+ATTENTION : Il faut que le site soit connecté à la BDD (en PDO)
